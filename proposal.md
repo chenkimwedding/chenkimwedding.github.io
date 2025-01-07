@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 1
 image: assets/img/chairs2.jpg
 image_position: bottom
 ---

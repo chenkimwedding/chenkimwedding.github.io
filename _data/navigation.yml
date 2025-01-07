@@ -1,20 +1,22 @@
 - name: Our Story
   link: /#ourstory
-- name: Celebrations
+- name: Celebration
   link: /celebrations
-- name: People
-  link: /people
-- name: Details
-  link: /details
+# - name: People
+#   link: /people
+# - name: Details
+#   link: /details
 - name: FAQ
   link: /faq
-- name: City Guide
-  link: /guide
-- name: Registry
-  link: /registry
-- name: Photos
-  link: /photo-gallery
-- name: Livestream
-  link: /livestream
-- name: RSVP
-  modal_id: rsvp-modal
+# - name: Gifts
+#   link: gifts
+# - name: City Guide
+#   link: /guide
+# - name: Registry
+#   link: /registry
+# - name: Photos
+#   link: /photo-gallery
+# - name: Livestream
+#   link: /livestream
+# - name: RSVP
+#   modal_id: rsvp-modal
